@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background: #393E46;
+  color: #4ECCA3;
+  font-family: Indie Flower;
+}
+
+h1 {
+  font-size: 5rem;
+  text-shadow: 5px 0 #232931;
+}
+
+a{
+  text-decoration: none;
+  color: #4ECCA3;
+}
+
+a:hover{
+  color: white;
+}
+
+#header {
+  margin: 3% 25%;
+  font-family: Lobster;
+}
+
+#dice {
+  font-size: 1.5rem;
+  margin: 3% 35% 7%;
+}
+
+h3 {
+  padding: 20px;
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  color: white;
+}
