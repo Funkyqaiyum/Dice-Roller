@@ -1,2 +1,2 @@
 # Dice-Roller
-Website that helps you make life's toughest decisions
+A website that helps you make life's toughest decisions.
